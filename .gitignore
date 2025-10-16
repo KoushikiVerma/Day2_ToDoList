@@ -1,3 +1,13 @@
+#Ignore Visual Studio Files
+.vs/
+*.v17
+*.wsuo
+*.json
+*.suo
+*.user
+*.cache
+*.db
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
